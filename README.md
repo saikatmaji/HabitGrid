@@ -39,3 +39,18 @@ HabitGridX is a modern and responsive habit tracking website built using React, 
 - Vite – Fast frontend build tool and development environment.
 
 ---
+
+## 🧑‍💻 Developer
+
+<p>
+Saikat Maji
+<br>
+🌟 Full Stack Developer | Tech Explorer | Passionate Builder
+<br>
+🔗
+<a href="https://github.com/saikatmaji">GitHub</a> |
+<a href="https://www.linkedin.com/in/saikatmaji/">LinkedIn</a>
+<a href="https://x.com/saikat__maji">X</a>
+</p>
+
+---
