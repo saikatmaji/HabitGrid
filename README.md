@@ -49,7 +49,7 @@ Saikat Maji
 <br>
 🔗
 <a href="https://github.com/saikatmaji">GitHub</a> |
-<a href="https://www.linkedin.com/in/saikatmaji/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/saikatmaji/">LinkedIn</a> |
 <a href="https://x.com/saikat__maji">X</a>
 </p>
 
