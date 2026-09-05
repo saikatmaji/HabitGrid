@@ -28,3 +28,14 @@ HabitGridX is a modern and responsive habit tracking website built using React, 
 - ⚡ Fast Performance – Built with React and Vite for a smooth development and user experience.
 
 ---
+
+## 🛠️ Tech Stack
+
+- React.js – Component-based JavaScript library for building the user interface.
+- TypeScript – Provides static typing for safer and more maintainable React code.
+- Tailwind CSS – Utility-first CSS framework for creating a modern and responsive design.
+- HTML5 – Used for structuring the application.
+- CSS3 – Used for styling and custom UI enhancements.
+- Vite – Fast frontend build tool and development environment.
+
+---
