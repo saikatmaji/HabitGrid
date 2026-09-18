@@ -57,7 +57,7 @@ Saikat Maji
 
 - Star this repository
 - Fork the repository
-- Contribute
+- Contribute to the project
 - Share on social media
 
 ---
