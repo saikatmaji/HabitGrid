@@ -6,7 +6,7 @@ HabitGridX is a modern and responsive habit tracking website built using React, 
 
 ## 🚀 Live Demo
 
-🌐 [Visit the Live Site](https://habitgridx.netlify.app/)
+🌐 [Visit HabitGridX](https://habitgridx.netlify.app/)
 
 ---
 
