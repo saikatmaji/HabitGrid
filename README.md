@@ -56,7 +56,7 @@ Saikat Maji
 ## ⭐ Show Your Support!
 
 - Star this repository
-- Fork it
+- Fork the repository
 - Contribute
 - Share on social media
 
