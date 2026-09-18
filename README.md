@@ -64,6 +64,6 @@ Saikat Maji
 
 ## 🧾 License
 
-This project is for educational purposes only.  
+This project is created for educational and portfolio purposes.  
 
 ---
